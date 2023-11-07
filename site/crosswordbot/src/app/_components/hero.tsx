@@ -24,25 +24,25 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h1 mb-4" data-aos="fade-up">The Best Strategies to Achieve Your Dreams</h1>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">The most effective test-preparation for <i>your</i> exam. Research-backed. Battle-tested. Thousands of scores raised. Conquer your future <i>today</i>.</p>
+            <h1 className="h1 mb-4" data-aos="fade-up">Lorem Ipsum</h1>
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">lorem ipsum</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
-              <div className='flex flex-col'>
+              {/* <div className='flex flex-col'>
                 <div data-aos="fade-up" data-aos-delay="400">
                   <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-0 sm:w-auto sm:mb-0 rounded-md" href="https://www.amazon.com/dp/B0CCCHNF7J?&_encoding=UTF8&tag=cambridgeten-20&linkCode=ur2&linkId=8ee2dfb3c75bafe0191628f322bcfb20&camp=1789&creative=9325">MCAT Mnemonics</a>
                 </div>
                 <div data-aos="fade-up" data-aos-delay="400">
                   <a className='btn text-gray-300 bg-gray-900 sm:bg-gray-800/80 w-full h-4 sm:w-auto sm:mb-0 rounded-b-md text-[10pt] px-2'>✨ New Release ✨</a>
                 </div>
-              </div>
-              <div className='flex flex-col'>
+              </div> */}
+              {/* <div className='flex flex-col'>
                 <div data-aos="fade-up" data-aos-delay="600">
                   <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4 rounded-md" href="#0">Find Your Exam</a>
                 </div>
                 <div data-aos="fade-up" data-aos-delay="400">
                   <a className='btn text-gray-600 bg-gray-900 sm:bg-gray-800/80 w-full h-4 sm:w-auto ml-0 sm:ml-4 sm:mb-0 rounded-b-md text-[10pt] px-2'>coming soon</a>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

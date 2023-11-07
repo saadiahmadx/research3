@@ -19,7 +19,7 @@ export default function Footer() {
                   <Logo/>
                 </Link>
               </div>
-              <div className="text-gray-400">The mission is simple: give ambitious people the <b>real</b> strategies to conquer <i>any</i> exam. </div>
+              <div className="text-gray-400">Lorem Ipsum</div>
             </div>
 
           </div>
