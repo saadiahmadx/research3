@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./tree-of-thought-llm/src"]
+}
